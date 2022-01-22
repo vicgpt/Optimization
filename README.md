@@ -1,4 +1,4 @@
-# Optimization 
+# MSBA Optimization
 The repo contains project and homework code and results for Optimization part 1 and part 2 offered in MSBA at UT Austin.
 
 ## Part 1
